@@ -12,7 +12,7 @@ compiled_package_info:
     vm: "0000000000000000000000000000000000000000000000000000000000000000"
     vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
     wallet: f21c7d6df6f867465d9ee8aaf254ef2915b916956a839e3d19997ae394766aa7
-  source_digest: 22271A266F05382DA320A9C814DEB0E31D5CABBBC8FF54E4F415BE47BFCF1C5F
+  source_digest: 58E88D415B49AB049D38B57DE56A5925549DB061D94636473AB6D74A6C5F0F8A
   build_flags:
     dev_mode: false
     test_mode: false
@@ -25,7 +25,7 @@ compiled_package_info:
     additional_named_addresses: {}
     architecture: ~
     fetch_deps_only: false
-    skip_fetch_latest_git_deps: true
+    skip_fetch_latest_git_deps: false
     compiler_config:
       bytecode_version: ~
       known_attributes:
