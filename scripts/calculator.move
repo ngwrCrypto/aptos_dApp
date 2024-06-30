@@ -1,4 +1,4 @@
-module wallet::calculator_l05
+module wallet::calculator_l05ls
 {
     use std::string::{String,utf8};
     use std::signer;
